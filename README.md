@@ -9,7 +9,6 @@ This project involves scraping movie data from IMDb website and providing an API
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -24,8 +23,7 @@ The project consists of two main parts:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/movie-data-scraping.git
-   cd movie-data-scraping
+   git clone https://github.com/Adarshh9/Movie_API.git
    ```
 
 2. Install the required Python packages:
