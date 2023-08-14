@@ -45,7 +45,7 @@ The project consists of two main parts:
 2. Start the FastAPI web API:
 
    ```bash
-   uvicorn main:app --host 0.0.0.0 --port 8000
+   uvicorn app:app --reload --host 0.0.0.0
    ```
 
    The API will be accessible at http://localhost:8000/docs.
