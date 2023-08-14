@@ -48,7 +48,7 @@ The project consists of two main parts:
    uvicorn main:app --host 0.0.0.0 --port 8000
    ```
 
-   The API will be accessible at http://localhost:8000.
+   The API will be accessible at http://localhost:8000/docs.
 
 ## API Endpoints
 
